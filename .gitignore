@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+.venv
+speech_commands*
+.DS_Store
